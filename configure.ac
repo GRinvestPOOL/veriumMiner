@@ -1,4 +1,4 @@
-AC_INIT([cpuminer], [1.6 {VeriumMiner}])
+AC_INIT([cpuminer], [1.10 {JonathanLivingstonSeagull}])
 
 AC_PREREQ([2.59c])
 AC_CANONICAL_SYSTEM
