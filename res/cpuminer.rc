@@ -76,10 +76,10 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "FileVersion", "1.6"
-            VALUE "LegalCopyright", "Copyright (C) 2018"
-            VALUE "ProductName", "veriumMiner"
-            VALUE "ProductVersion", "1.6"
+            VALUE "FileVersion", "1.10"
+            VALUE "LegalCopyright", "Copyright (C) 2020"
+            VALUE "ProductName", "JonathanLivingstonSeagull"
+            VALUE "ProductVersion", "1.10"
         END
     END
     BLOCK "VarFileInfo"
